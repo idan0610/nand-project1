@@ -1,0 +1,31 @@
+daph.kaplan, idan0610
+===============================================================================
+Dafna Kaplan, ID 204092613, dafna.kaplan@cs.huji.ac.il
+Idan Refaeli, ID 305681132, idan.refaeli@cs.huji.ac.il
+===============================================================================
+
+                           Project 1 - Elementary Logic  CHIPs
+                           ----------------------------------- 
+  
+
+Submitted Files
+---------------
+README - This file.
+And16.hdl 		-  CHIP for 16bit bitwise AND 
+And.hdl 		-  CHIP for AND 
+DMux4Way.hdl 	-  CHIP for 4 way demultiplexor
+DMux8Way.hdl 	-  CHIP for 8 way demultiplexor
+DMux.hdl 		-  CHIP for demultiplexor
+Mux16.hdl 		-  CHIP for 16bit bitwise Mux 
+Mux4Way16.hdl 	-  CHIP for 4 way Multiplexor 16bit bitwise
+Mux8Way16.hdl 	-  CHIP for 8 way Multiplexor 16bit bitwise
+Mux.hdl 		-  CHIP for Multiplexor
+Not16.hdl		-  CHIP for 16bit bitwise NOT 
+Not.hdl 		-  CHIP for NOT 
+Or16.hdl 		-  CHIP for 16bit bitwise OR
+Or8Way.hdl 		-  CHIP for 8 way OR
+Or.hdl 			-  CHIP for OR
+Xor.hdl			-  CHIP for XOR 
+
+-------
+remarks: creating elementry gates using the NAND builtin gate
